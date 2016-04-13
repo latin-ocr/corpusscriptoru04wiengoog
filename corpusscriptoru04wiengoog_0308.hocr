@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptoru04wiengoog_0308.png"; bbox 0 0 3242 5159; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 336 2093 711 2164">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 336 2093 711 2164">
+     <span class='ocr_line' id='line_1_1' title="bbox 336 2093 711 2164; baseline -0.021 -12"><span class='ocrx_word' id='word_1_1' title='bbox 336 2095 360 2152; x_wconf 82' lang='lat' dir='ltr'><strong><em>S</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 381 2093 502 2149; x_wconf 86' lang='lat' dir='ltr'>:codex</span> <span class='ocrx_word' id='word_1_3' title='bbox 515 2095 711 2164; x_wconf 80' lang='lat' dir='ltr'>Soguicrienue.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 337 2180 1239 2502">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 337 2180 1239 2338">
+     <span class='ocr_line' id='line_1_2' title="bbox 339 2180 1239 2246; baseline -0.004 -7"><span class='ocrx_word' id='word_1_4' title='bbox 339 2183 362 2239; x_wconf 92' lang='lat' dir='ltr'><em>O</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 384 2207 417 2231; x_wconf 95' lang='lat'>=</span> <span class='ocrx_word' id='word_1_6' title='bbox 426 2182 506 2236; x_wconf 84' lang='lat' dir='ltr'>codex</span> <span class='ocrx_word' id='word_1_7' title='bbox 518 2181 709 2246; x_wconf 74' lang='lat' dir='ltr'>Floriecensis,</span> <span class='ocrx_word' id='word_1_8' title='bbox 729 2197 798 2236; x_wconf 85' lang='lat' dir='ltr'>nunc</span> <span class='ocrx_word' id='word_1_9' title='bbox 811 2180 1011 2235; x_wconf 77' lang='lat' dir='ltr'><strong>Aurelianensis</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1026 2181 1082 2238; x_wconf 83' lang='lat'>131</span> <span class='ocrx_word' id='word_1_11' title='bbox 1096 2197 1162 2235; x_wconf 83' lang='lat' dir='ltr'>seeo.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1176 2181 1239 2235; x_wconf 88' lang='lat' dir='ltr'>v11.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 337 2269 758 2338; baseline -0.012 -10"><span class='ocrx_word' id='word_1_13' title='bbox 337 2274 413 2328; x_wconf 86' lang='lat' dir='ltr'>W:</span> <span class='ocrx_word' id='word_1_14' title='bbox 423 2269 501 2325; x_wconf 81' lang='lat' dir='ltr'>codex</span> <span class='ocrx_word' id='word_1_15' title='bbox 514 2270 758 2338; x_wconf 80' lang='lat' dir='ltr'>Wiirzcburgensis.</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 338 2357 706 2429">
+     <span class='ocr_line' id='line_1_4' title="bbox 338 2357 706 2429; baseline -0.003 -16"><span class='ocrx_word' id='word_1_16' title='bbox 338 2359 364 2413; x_wconf 83' lang='lat' dir='ltr'><em>G</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 382 2384 414 2407; x_wconf 92' lang='lat'>=</span> <span class='ocrx_word' id='word_1_18' title='bbox 424 2360 503 2414; x_wconf 81' lang='lat' dir='ltr'>codex</span> <span class='ocrx_word' id='word_1_19' title='bbox 515 2357 706 2429; x_wconf 76' lang='lat' dir='ltr'>Sangalleneie.</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 337 2446 680 2502">
+     <span class='ocr_line' id='line_1_5' title="bbox 337 2446 680 2502; baseline -0.006 -2"><span class='ocrx_word' id='word_1_20' title='bbox 337 2446 364 2500; x_wconf 88' lang='lat' dir='ltr'><em>V</em></span> <span class='ocrx_word' id='word_1_21' title='bbox 381 2469 413 2493; x_wconf 92' lang='lat'><strong><em>=</em></strong></span> <span class='ocrx_word' id='word_1_22' title='bbox 424 2446 502 2502; x_wconf 87' lang='lat' dir='ltr'>codex</span> <span class='ocrx_word' id='word_1_23' title='bbox 515 2447 680 2502; x_wconf 74' lang='lat' dir='ltr'>Veronensis.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1626 5159">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1626 5159">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1626 5159; baseline 0 1"><span class='ocrx_word' id='word_1_24' title='bbox 0 0 1626 5159; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

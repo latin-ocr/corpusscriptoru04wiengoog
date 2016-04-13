@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptoru04wiengoog_0011.png"; bbox 0 0 3242 5159; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 576 2010 1041 2079">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 576 2010 1041 2079">
+     <span class='ocr_line' id='line_1_1' title="bbox 576 2010 1041 2079; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 576 2010 830 2079; x_wconf 75' lang='lat' dir='ltr'>PROFESSORI</span> <span class='ocrx_word' id='word_1_2' title='bbox 852 2040 859 2053; x_wconf 94' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 881 2011 1041 2079; x_wconf 80' lang='lat' dir='ltr'>OPTIMO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 426 2219 1186 2334">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 426 2219 1186 2334">
+     <span class='ocr_line' id='line_1_2' title="bbox 426 2219 1186 2334; baseline 0 -2"><span class='ocrx_word' id='word_1_4' title='bbox 426 2220 745 2334; x_wconf 80' lang='lat' dir='ltr'><strong>IOHANNI</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 779 2274 787 2290; x_wconf 96' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 825 2219 1186 2333; x_wconf 77' lang='lat' dir='ltr'><strong>VAHLENO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 545 2740 1067 2808">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 545 2740 1067 2808">
+     <span class='ocr_line' id='line_1_3' title="bbox 545 2740 1067 2808; baseline -0.002 -2"><span class='ocrx_word' id='word_1_7' title='bbox 545 2741 848 2807; x_wconf 81' lang='lat' dir='ltr'><strong>GVILELMVS·</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 873 2740 1067 2808; x_wconf 70' lang='lat' dir='ltr'><strong>mm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1626 5159">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1626 5159">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1626 5159; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1626 5159; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptoru04wiengoog/corpusscriptoru04wiengoog_0248.png"; bbox 0 0 3242 5159; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 611 2217 1032 2538">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 611 2217 1032 2463">
+     <span class='ocr_line' id='line_1_1' title="bbox 614 2217 997 2289; baseline -0.013 -11"><span class='ocrx_word' id='word_1_1' title='bbox 614 2219 638 2278; x_wconf 72' lang='grc' dir='ltr'><em>Β</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 660 2243 694 2270; x_wconf 92' lang='lat'>=</span> <span class='ocrx_word' id='word_1_3' title='bbox 705 2217 784 2274; x_wconf 72' lang='lat' dir='ltr'>codex</span> <span class='ocrx_word' id='word_1_4' title='bbox 797 2217 997 2289; x_wconf 72' lang='lat' dir='ltr'><strong>Seguierianus.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 614 2303 1032 2376; baseline 0.01 -20"><span class='ocrx_word' id='word_1_5' title='bbox 614 2307 690 2366; x_wconf 82' lang='lat' dir='ltr'>W:</span> <span class='ocrx_word' id='word_1_6' title='bbox 700 2303 779 2362; x_wconf 82' lang='lat' dir='ltr'>oodex</span> <span class='ocrx_word' id='word_1_7' title='bbox 790 2304 1032 2376; x_wconf 59' lang='lat' dir='ltr'><strong>Wfirzeburgensia</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 611 2392 960 2463; baseline -0.014 -11"><span class='ocrx_word' id='word_1_8' title='bbox 611 2395 639 2452; x_wconf 86' lang='lat' dir='ltr'><em>R</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 659 2416 693 2442; x_wconf 96' lang='lat'><strong><em>=</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 703 2392 783 2450; x_wconf 82' lang='lat' dir='ltr'><strong>codex</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 794 2392 960 2463; x_wconf 56' lang='lat' dir='ltr'>Reginensia</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 620 2479 966 2538">
+     <span class='ocr_line' id='line_1_4' title="bbox 620 2479 966 2538; baseline -0.006 0"><span class='ocrx_word' id='word_1_12' title='bbox 620 2481 647 2538; x_wconf 86' lang='lat' dir='ltr'><strong><em>V</em></strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 661 2503 694 2530; x_wconf 93' lang='lat'>=</span> <span class='ocrx_word' id='word_1_14' title='bbox 704 2479 784 2536; x_wconf 77' lang='lat' dir='ltr'><strong>codex</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 797 2479 966 2536; x_wconf 73' lang='lat' dir='ltr'>Veronensis.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1626 5159">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1626 5159">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1626 5159; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1626 5159; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
